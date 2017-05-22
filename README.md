@@ -37,3 +37,8 @@ On this app you can also:
 **IMPORTANT**
  
 You need to be connected on internet to use this app localhost (My stylesheet is hosted on internet).
+
+License
+----
+
+MIT
