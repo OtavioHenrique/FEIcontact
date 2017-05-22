@@ -1,0 +1,25 @@
+{
+  "name": "feicontact",
+  "version": "1.0.0",
+  "description": "Contact app for university project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioHenrique/FEIcontact.git"
+  },
+  "author": "Otavio Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtavioHenrique/FEIcontact/issues"
+  },
+  "homepage": "https://github.com/OtavioHenrique/FEIcontact#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.0"
+  }
+}
